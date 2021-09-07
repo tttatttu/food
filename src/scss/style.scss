@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap&subset=cyrillic-ext');
+@import 'variables/variables';
+@import 'base';
+
+@import 'blocks/header/header';
+@import 'blocks/sidepanel/sidepanel';
+@import 'blocks/preview/preview';
+@import 'blocks/offer/offer';
+@import 'blocks/calculating/calculating';
+@import 'blocks/menu/menu';
+@import 'blocks/order/order';
+@import 'blocks/promotion/promotion';
+@import 'blocks/footer/footer';
+@import 'blocks/modal/modal';
+
+//.box {
+//  position: absolute;
+//  width: 100px;
+//  height: 100px;
+//  background-color: blue;
+//}
+//.wrapper {
+//  position: relative;
+//  width: 400px;
+//  height: 400px;
+//  border: 3px solid red;
+//}
+//.btn-block {
+//  padding: 10px;
+//  background-color: grey;
+//  margin-top: 10px;
+//}
+//button {
+//  margin-bottom: 10px;
+//  margin-top: 10px;
+//  width: 100px;
+//  height: 40px;
+//  background-color: yellow;
+//  border: none;
+//  transition: 0.3s all;
+//}
+//
+//.blue {
+//  background-color: blue;
+//}
+//
+//.red {
+//  background-color: red;
+//}
